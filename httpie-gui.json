@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/httpie/desktop/releases/download/v2024.1.2/HTTPie-Setup-2024.1.2.exe#dl.7z",
-            "hash": "56f242c88b515e4cb0c4fed497dd07903c5c8d79fbef0ac929ad5b1920158cad",
+            "hash": "289c48da7f5da79ad4ca4252594d2dd61568a5bd25a18ce2a648e496c1caac80",
             "installer": {
                 "script": [
                     "Remove-Item \"$dir\\*\" -Exclude 'app-64.7z'",
