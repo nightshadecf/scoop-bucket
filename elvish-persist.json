@@ -1,6 +1,6 @@
 {
   "version": "0.21.0",
-  "description": "An interactive shell and an expressive programming language",
+  "description": "Persist version of Elvish. An interactive shell and an expressive programming language",
   "homepage": "https://elv.sh",
   "license": "BSD-2-Clause",
   "architecture": {
@@ -20,7 +20,7 @@
   },
   "persist": "data",
   "env_set": {
-    "XDG_CONFIG_HOME": "./data"
+    "XDG_CONFIG_HOME": "$persist_dir"
   },
   "autoupdate": {
     "architecture": {
