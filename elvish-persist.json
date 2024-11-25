@@ -20,7 +20,8 @@
   },
   "env_set": {
     "XDG_CONFIG_HOME": "$persist_dir",
-    "XDG_STATE_HOME": "$persist_dir\\state"
+    "XDG_STATE_HOME": "$persist_dir\\state",
+    "SCOOP_DIR": "$dir"
   },
   "autoupdate": {
     "architecture": {
