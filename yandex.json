@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://browser.yandex.com/download/?full=1#/dl.7z",
-      "hash": "6bb54b2e2d524ff711c1fa67229ce3c9ff02d29cd2b08de7fb6c3fba7eab40f2"
+      "hash": "c0265aba6a7f17314c7c478fb20f617247b677f2d697d38c8dae782aac21cbbe"
     },
     "32bit": {
       "url": "https://browser.yandex.com/download/?full=1&bitness=32#/dl.7z",
