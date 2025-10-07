@@ -5,7 +5,7 @@
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://browser.yandex.com/download/?full=1",
+      "url": "https://cloudcdn-fra-03.cdn.yandex.net/download.cdn.yandex.net/browser/int/25_8_4_761_88694/en/Yandex.exe",
       "hash": "6214a34dcbcb9138adfbea5c31c9f02c034b12268d9144693e6f44b700ebe58b"
     },
     "32bit": {
